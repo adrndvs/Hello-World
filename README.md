@@ -1,2 +1,2 @@
-# Hello-World
+This is my compiled evidence which is to show geochemical signatures in specimens that I've had tested by xrf which support the validity of my claim and presentation.  There are also visual references to certain contents of material that will be exhibited.  I am essentially building a portfolio/dataset which can be presented to various cosmochemists who can review my findings and help me have what I've discovered confirmed.# Hello-World
 Geochemical dataset
